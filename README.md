@@ -112,8 +112,6 @@ I thank my team mates who helped to shape the project to what it is now, for tes
 * **[Aryan Parashar](https://github.com/aryanparashar06-cmd)**
 * **Anston Jedidah**
 
-*(Contributions, bug reports, and pull requests are always welcome!)*
-
 ## 🏆 Special Recognition
 
 * Multidisciplinary Project - Awarded S Grade (97/100) for successful project demonstration and completion.
